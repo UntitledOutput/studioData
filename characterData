@@ -1,0 +1,9 @@
+{
+	data = {
+		Name = "Jon",
+		Surname = "Hoshi",
+		Age = 19,
+		Grade = "Year 2 College",
+		HomeCountry = "Japan"
+	}
+}
