@@ -1,5 +1,5 @@
 local httpService = game:GetService("HttpService")
 
-local url = "https://raw.githubusercontent.com/".."/UntitledOutput/studioData/GettingDatafromGitHub"
+local url = "https://raw.githubusercontent.com/".."/UntitledOutput/studioData/main/GettingDatafromGitHub"
 
 print(httpService:GetAsync(url))
