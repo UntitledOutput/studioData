@@ -1,0 +1,16 @@
+{
+  DialogueData = {
+    Noob = {
+      Strings = {
+        "Hello!",
+        "This is a string from GitHub!",
+        "No you can't know the URL.",
+        "See-Ya!",
+      }
+      Data = {
+        Color = Color3.FromRGB(163, 26, 26),
+        Font = Enum.Font.Cartoon
+      }
+    }
+  }
+}
