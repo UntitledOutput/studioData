@@ -1,15 +1,14 @@
 {
-		["Noob"] = {
-			["Strings"] = {
-				"Hello!",
-				"This is a string from GitHub!",
-				"No you can't know the URL.",
-				"See-Ya!",
-			},
-			["Data"] = {
-				Color = Enum.ChatColor.White,
-				Font = Enum.Font.Cartoon
-			},
+	Noob = {
+		Strings = {
+			"Hello!",
+			"This is a string from GitHub!",
+			"No, you can't know the URL.",
+			"See-Ya!~!",
 		},
-	},
+		Data = {
+			Color = "White",
+			Font = "Cartoon"
+		}
+	}
 }
