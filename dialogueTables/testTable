@@ -8,7 +8,7 @@
         "See-Ya!",
       }
       Data = {
-        Color = Color3.FromRGB(163, 26, 26),
+        Color = Enum.ChatColor.White,
         Font = Enum.Font.Cartoon
       }
     }
